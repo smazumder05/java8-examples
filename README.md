@@ -33,8 +33,7 @@ ConcurrentMap<Person.Sex, List<Person>> byGender =
 
 <b>3. Java Traits = ❤ </b>
 Java 8 also added the ability to include method implementations in interfaces (which turns them into what is known as “traits”). For
-example, the FooBar interface below contains two methods, one abstract (foo) and the other (bar) with a default implementation. The useFooBar method, well, uses a FooBar
-
+example, the FooBar interface below contains two methods, one abstract (foo) and the other (bar) with a default implementation.
 ```java
 /**
  * Even though FooBar has two methods, only one of them (foo) is not implemented, so it
