@@ -14,7 +14,7 @@ apply plugin: 'application'
 
 sourceCompatability='1.8'
 
-mainClassName='sm.jtemplate.J8Main'
+mainClassName='sm.j8samples.J8Main'
 
 //Add configurations section
 configurations {
