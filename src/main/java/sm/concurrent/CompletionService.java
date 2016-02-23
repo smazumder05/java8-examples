@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.bb.sm.concurrent;
+package sm.concurrent;
 
 /**
  * @author smazumder6
